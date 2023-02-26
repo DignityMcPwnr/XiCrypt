@@ -1,7 +1,7 @@
 import argparse
 import os
 import sys
-sys.path.append("/Users/xian/Documents/Andere/Persoonlijk/Programming/XiCrypt")
+sys.path.append("/XiCrypt")
 import engine
 
 # The looks
@@ -24,7 +24,7 @@ print("  /   _   \ |   ||    /  \|   :  \     |   |   |   |___|  
 print(" /___/ \___\|   ||. _____/|   |___\    |___|   |___|      |   |")
 print("            |___| :/      |___|                           |___|")
 print("                  :                                            ") 
-print(bcolors.OKCYAN+"Version 2.0; Written by Xian Vancanneyt; updated 25/12/2021")
+print(bcolors.OKCYAN+"Version 2.0; updated 26/02/2023")
 print (""+bcolors.ENDC)
 
 # Setting the arguments
